@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img src="assets/banner-light.png" alt="A small orchestra of AI agents, kept in tune." width="100%">
+</picture>
+
 # Eike Schuderer
 
 Software engineer conducting a small orchestra of agents and keeping them in tune.
