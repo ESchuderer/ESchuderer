@@ -2,4 +2,6 @@
 
 Software engineer conducting a small orchestra of agents and keeping them in tune.
 
-[pimetry.de](https://pimetry.de/en) · [LinkedIn](https://www.linkedin.com/in/eike-schuderer-61928010b/)
+[![PiMetry](https://img.shields.io/badge/PiMetry-pimetry.de-2b2b2b)](https://pimetry.de/en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eike%20Schuderer-0A66C2)](https://www.linkedin.com/in/eike-schuderer-61928010b/)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ESchuderer)
